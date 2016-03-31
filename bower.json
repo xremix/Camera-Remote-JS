@@ -7,7 +7,14 @@
   ],
   "license": "MIT",
   "keywords": [
-    "yeoman-generator"
+   "sony",
+   "camera",
+   "api",
+   "a7",
+   "alpha",
+   "playmemories",
+   "play",
+  "memories"
   ],
   "homepage": "https://github.com/xremix/Camera-Remote-JS",
   "moduleType": [],
