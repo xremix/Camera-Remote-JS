@@ -1,5 +1,6 @@
 # Camera-Remote-JS
 Access your Sony Camera via Wifi using JavaScript (Node.js or Browser)
+A complete platform indipendent JS Library to access the Sony Camera API
 
 `WORK IN PROGRESS`
 

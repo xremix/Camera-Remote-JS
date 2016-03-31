@@ -9,7 +9,7 @@
   "keywords": [
     "yeoman-generator"
   ],
-  "homepage": "https://github.com/xremix/generator-gulp-sass-coffeescript",
+  "homepage": "https://github.com/xremix/Camera-Remote-JS",
   "moduleType": [],
   "private": true,
   "ignore": [
@@ -20,8 +20,5 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.2.1",
-    "bootstrap-sass": "~3.3.6",
-    "font-awesome": "fontawesome#~4.5.0"
   }
 }
