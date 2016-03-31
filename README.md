@@ -39,3 +39,7 @@ Available Functions
 - exports.StartBulbShooting 
 - exports.StopBulbShooting 
 - exports.GetEvent 
+
+## Compatibility
+
+A full list of all supported cameras and the supported functionality please take a look at [the official documentation](https://developer.sony.com/develop/cameras/)
