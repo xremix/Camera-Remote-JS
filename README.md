@@ -1,5 +1,6 @@
 # Camera-Remote-JS
 Access your Sony Camera via Wifi using JavaScript (Node.js or Browser)
+A complete platform indipendent JS Library to access the Sony Camera API
 
 `WORK IN PROGRESS`
 
@@ -38,3 +39,7 @@ Available Functions
 - exports.StartBulbShooting 
 - exports.StopBulbShooting 
 - exports.GetEvent 
+
+## Compatibility
+
+A full list of all supported cameras and the supported functionality please take a look at [the official documentation](https://developer.sony.com/develop/cameras/)
