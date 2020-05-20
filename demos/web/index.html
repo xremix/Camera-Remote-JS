@@ -46,11 +46,16 @@
 
 			  <div class="col-md-4">
 			    <label for="exampleInputEmail1">Number of Selfies</label>
-					<input type="text" class="form-control" name="numberOfSelfies" id="numberOfSelfies" value="5">
+					<input type="number" class="form-control" name="numberOfSelfies" id="numberOfSelfies" value="5">
 
+			    <label for="exampleInputEmail1">Delay</label>
+					<input type="number" class="form-control" name="selfieDelay" id="selfieDelay" value="1">
 
-				    <label for="exampleInputEmail1">Delay</label>
-						<input type="text" class="form-control" name="selfieDelay" id="numberOfSelfies" value="5">
+					<div class="checkbox">
+						<label>
+							<input type="checkbox" id="backupSelfie"> Backup selfie
+						</label>
+					</div>
 			  </div>
 
 			</div>
@@ -65,6 +70,10 @@
 				</a><br/>
 			</div>
 			<div>Bulb recording time: <span id="stopWatchValue">0s</span></div>
+
+			<div class="row">
+				<img id="previewimage" style="height:200px; border: 1px solid gray;" alt="">
+			</div>
 		</div>
 
 		<div class="row">
